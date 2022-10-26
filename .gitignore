@@ -1,2 +1,5 @@
 # Ignored directories
-/Debug
+Debug/
+
+# Ignored logs
+*.log
