@@ -1,5 +1,6 @@
 # Ignored directories
 Debug/
+.settings/
 
 # Ignored logs
 *.log
